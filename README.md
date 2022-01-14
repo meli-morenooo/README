@@ -10,8 +10,8 @@
 
 [![meli-morenooo github activity graph](https://activity-graph.herokuapp.com/graph?username=meli-morenooo&theme=react-dark)](https://github.com/meli-morenooo/github-readme-activity-graph)
 
-[![Linkedin Badge](https://img.shields.io/badge/-meli-morenooo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melisa-moreno-0b4163212/)](https://www.linkedin.com/in/melisa-moreno-0b4163212/)
-[![Gmail Badge](https://img.shields.io/badge/-meli.moreno419@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meli.moreno419z@gmail.com)](mailto:meli.moreno419@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-melimorenooo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melisa-moreno-0b4163212/)](https://www.linkedin.com/in/melisa-moreno-0b4163212/)              
+[![Gmail Badge](https://img.shields.io/badge/-meli.moreno419@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meli.moreno419z@gmail.com)](mailto:meli.moreno419@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@meli.morenoo-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/meli.morenoo/)](https://www.instagram.com/meli.morenoo/)          
 [![Twitter Badge](https://img.shields.io/badge/-@meli_morenooo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/meli_morenooo)](https://twitter.com/meli_morenooo) 
 
