@@ -1,14 +1,19 @@
-<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px"> Hello! My name is Melisa ⚡ <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" height="30px">
+<p align="center" width="300">
+   <img align="center" width="200" src="https://user-images.githubusercontent.com/87624300/196533887-fb9ac2a1-8032-44c8-867a-7da82e7b753f.png" />
+   <h3 align="center">¡Hey 👋! Soy Melisa Moreno 👩‍💻</h3>
+</p>
 
-![Melisa Moreno GitHub stats](https://github-readme-stats.vercel.app/api?username=meli-morenooo&show_icons=true&theme=radical) 
+<p align="center">Soy <strong>Técnico Superior en Desarrollo de Software & Full Stack Developer Jr</strong>.</p>
+<p align="center">
+  <a href="https://www.instagram.com/meli.morenoo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="midu.dev" height="28px" width="28px" />
+  </a>
+  <a href="https://twitter.com/meli_morenooo" target="blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="midudev" height="28px" width="28px" />
+  </a>
+</p>
 
- <img src ="https://github-readme-streak-stats.herokuapp.com?user=meli-morenooo&theme=darcula&hide_border=true&background=FFFFFF00">
- 
- <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=meli-morenooo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=meli-morenooo&row=2&theme=gruvbox)](https://github.com/meli-morenooo/github-profile-trophy)
-
-[![meli-morenooo github activity graph](https://activity-graph.herokuapp.com/graph?username=meli-morenooo&theme=react-dark)](https://github.com/meli-morenooo/github-readme-activity-graph)
+<img width="450" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=meli-morenooo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
 
 [![Linkedin Badge](https://img.shields.io/badge/-melimorenooo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melisa-moreno-0b4163212/)](https://www.linkedin.com/in/melisa-moreno-0b4163212/)              
 [![Gmail Badge](https://img.shields.io/badge/-meli.moreno419@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meli.moreno419z@gmail.com)](mailto:meli.moreno419@gmail.com)          
