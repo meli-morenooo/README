@@ -13,8 +13,6 @@
   </a>
 </p>
 
-<img width="450" src ="https://github-readme-stats.vercel.app/api/top-langs/?username=meli-morenooo&layout=compact&hide_border=true&theme=darcula&bg_color=00000000&langs_count=6">
-
 [![Linkedin Badge](https://img.shields.io/badge/-melimorenooo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/melisa-moreno-0b4163212/)](https://www.linkedin.com/in/melisa-moreno-0b4163212/)              
 [![Gmail Badge](https://img.shields.io/badge/-meli.moreno419@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:meli.moreno419z@gmail.com)](mailto:meli.moreno419@gmail.com)          
 [![Instagram Badge](https://img.shields.io/badge/-@meli.morenoo-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://www.instagram.com/meli.morenoo/)](https://www.instagram.com/meli.morenoo/)          
